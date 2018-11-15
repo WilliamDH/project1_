@@ -8,7 +8,7 @@ Project discription - a search function for vetting nonprofits based on irs tax 
 
 Presentation - https://docs.google.com/presentation/d/1nAes3-cAdb7kY5Z4r9X-Xna1zGXerXDlkppUXyaNDSQ/edit#slide=id.g46fa44b3a3_0_24
 
-API's to be used - https://api.data.charitynavigator.org/v2/Organizations/
+API's to be used - https://api.data.charitynavigator.org/v2/Organizations/  
                    https://www.propublica.org/datastore/apis
 
 Rough Breakdown of Tasks - 
